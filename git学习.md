@@ -15,4 +15,5 @@
 - git的基础理论知识
 ![img.png](img.png)
 ![img_1.png](img_1.png)
+![img_2.png](img_2.png)
 - git status：查看当前处于哪个分支，有哪些文件以及这些文件都处于什么状态
