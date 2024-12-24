@@ -9,4 +9,3 @@
 
 - 使用pycharm安装python的一些包 [点击链接跳转查看教程](https://blog.csdn.net/hukunwoaini/article/details/121838040?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522bc5d3a4347df4d68757ec297818c2618%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=bc5d3a4347df4d68757ec297818c2618&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-121838040-null-null.142^v100^pc_search_result_base9&utm_term=pycharm%E5%AE%89%E8%A3%85%E5%8C%85&spm=1018.2226.3001.4187)
 - pycharm切换python解释器版本：[点击链接跳转查看教程](https://blog.csdn.net/sinat_36246371/article/details/55251854)
-- 
